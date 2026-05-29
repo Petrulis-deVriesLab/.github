@@ -1,3 +1,5 @@
+<img src="../lab_background_banner.png" alt="Petrulis - de Vries Lab" width="100%">
+
 # Petrulis - de Vries Lab
 
 **Sex differences in Neural Control of Social Behavior and Communication**
