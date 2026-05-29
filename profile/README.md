@@ -1,4 +1,4 @@
-![Petrulis - de Vries Lab](../banner.png)
+![Petrulis - de Vries Lab](../lab_background.png)
 
 # Petrulis - de Vries Lab
 
